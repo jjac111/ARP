@@ -1,0 +1,74 @@
+172.21.184.1	00:08:e3:ff:fd:90	Cisco Systems, Inc
+172.21.184.4	80:e0:1d:8a:f6:0f	Cisco Systems, Inc
+172.21.184.11	90:dd:5d:7a:9b:34	Apple, Inc.
+172.21.184.12	00:cd:fe:d4:8b:2c	Apple, Inc.
+172.21.184.13	f4:0f:24:d4:e2:ed	Apple, Inc.
+172.21.184.14	ec:89:14:01:79:86	HUAWEI TECHNOLOGIES CO.,LTD
+172.21.184.15	d0:d7:83:ff:da:6d	HUAWEI TECHNOLOGIES CO.,LTD
+172.21.184.16	34:42:62:7b:e8:1f	Apple, Inc.
+172.21.184.18	74:9e:af:7f:9e:79	Apple, Inc.
+172.21.184.23	70:3c:69:15:8f:70	Apple, Inc.
+172.21.184.24	b0:70:2d:54:ef:b0	Apple, Inc.
+172.21.184.30	7c:01:91:d9:65:32	Apple, Inc.
+172.21.184.31	bc:ff:eb:3b:c8:27	Motorola Mobility LLC, a Lenovo Company
+172.21.184.34	70:3e:ac:d5:5b:7c	Apple, Inc.
+172.21.184.36	a4:83:e7:08:0a:cd	Apple, Inc.
+172.21.184.37	ac:bc:32:7b:36:d9	Apple, Inc.
+172.21.184.38	a8:66:7f:33:27:88	Apple, Inc.
+172.21.184.39	b0:ca:68:6a:ea:75	Apple, Inc.
+172.21.184.40	54:33:cb:8a:28:8f	Apple, Inc.
+172.21.184.41	d0:81:7a:b1:1f:28	Apple, Inc.
+172.21.184.45	f0:a3:5a:91:4a:4d	Apple, Inc.
+172.21.184.46	dc:0b:34:81:37:88	LG Electronics (Mobile Communications)
+172.21.184.49	f4:63:1f:cc:29:f6	HUAWEI TECHNOLOGIES CO.,LTD
+172.21.184.50	f4:71:90:18:21:e6	Samsung Electronics Co.,Ltd
+172.21.184.53	64:70:33:39:58:c7	Apple, Inc.
+172.21.184.54	04:69:f8:67:de:b9	Apple, Inc.
+172.21.184.55	d4:61:da:be:ab:ac	Apple, Inc.
+172.21.184.57	58:e6:ba:e5:41:86	Apple, Inc.
+172.21.184.58	14:96:e5:1a:72:fd	Samsung Electronics Co.,Ltd
+172.21.184.59	78:88:6d:2c:c0:bf	Apple, Inc.
+172.21.184.61	18:67:b0:74:0a:25	Samsung Electronics Co.,Ltd
+172.21.184.65	a8:5b:78:52:6f:c8	Apple, Inc.
+172.21.184.68	94:0c:98:23:03:fc	Apple, Inc.
+172.21.184.71	04:4f:4c:d0:15:4a	HUAWEI TECHNOLOGIES CO.,LTD
+172.21.184.73	20:c9:d0:b2:e0:97	Apple, Inc.
+172.21.184.75	e0:9d:31:ce:c7:78	Intel Corporate
+172.21.184.79	94:bf:2d:9b:89:16	Apple, Inc.
+172.21.184.84	1c:36:bb:9d:88:b7	Apple, Inc.
+172.21.184.85	2c:0e:3d:f4:6d:92	SAMSUNG ELECTRO-MECHANICS(THAILAND)
+172.21.184.86	9c:da:3e:ff:e9:b6	Intel Corporate
+172.21.184.98	f8:e9:4e:6d:b7:a8	Apple, Inc.
+172.21.184.99	10:94:bb:d8:11:1e	Apple, Inc.
+172.21.184.100	60:30:d4:69:cf:d8	Apple, Inc.
+172.21.184.104	c4:98:80:67:d8:9f	Apple, Inc.
+172.21.184.77	28:ff:3c:17:8e:31	Apple, Inc.
+172.21.184.113	b4:ae:2b:22:82:85	Microsoft
+172.21.184.115	d0:d2:b0:79:3b:64	Apple, Inc.
+172.21.184.116	58:e6:ba:c7:5b:ac	Apple, Inc.
+172.21.184.117	14:9f:3c:17:cc:03	Samsung Electronics Co.,Ltd
+172.21.184.118	f8:87:f1:2a:11:66	Apple, Inc.
+172.21.184.120	84:ef:18:d6:26:21	Intel Corporate
+172.21.184.121	cc:2d:b7:70:22:45	Apple, Inc.
+172.21.184.122	48:c7:96:d5:f2:bd	Samsung Electronics Co.,Ltd
+172.21.184.124	cc:20:e8:da:50:57	Apple, Inc.
+172.21.184.126	8c:e5:c0:1d:38:cf	Samsung Electronics Co.,Ltd
+172.21.184.128	f0:18:98:18:96:39	Apple, Inc.
+172.21.184.129	20:32:6c:33:08:6f	Samsung Electronics Co.,Ltd
+172.21.184.131	bc:e6:3f:9e:da:8d	Samsung Electronics Co.,Ltd
+172.21.184.132	e8:80:2e:ca:70:ff	Apple, Inc.
+172.21.184.133	0c:2c:54:97:38:37	HUAWEI TECHNOLOGIES CO.,LTD
+172.21.184.134	08:d4:6a:a3:09:76	LG Electronics (Mobile Communications)
+172.21.184.135	24:f0:94:1d:5a:15	Apple, Inc.
+172.21.184.136	7c:89:56:b4:b3:1c	Samsung Electronics Co.,Ltd
+172.21.184.137	18:01:f1:84:c5:b2	Xiaomi Communications Co Ltd
+172.21.184.139	88:19:08:af:84:33	Apple, Inc.
+172.21.184.140	f8:87:f1:da:b6:e9	Apple, Inc.
+172.21.184.141	f8:e9:4e:75:29:86	Apple, Inc.
+172.21.184.144	c8:69:cd:aa:df:d0	Apple, Inc.
+172.21.184.145	80:0c:67:ed:57:30	Apple, Inc.
+172.21.184.146	70:3c:69:93:38:47	Apple, Inc.
+172.21.184.147	60:f8:1d:ab:57:30	Apple, Inc.
+172.21.184.151	6c:96:cf:a5:44:ab	Apple, Inc.
+172.21.184.154	c8:3d:d4:69:8e:31	CyberTAN Technology Inc.
+172.21.184.156	bc:a9:20:94:42:1d	Apple, Inc.

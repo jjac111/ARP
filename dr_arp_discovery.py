@@ -23,7 +23,7 @@ if __name__ == "__main__":
 
 	conf.verb = 0
 	
-	ans, unans = srp(Ether(dst="ff:ff:ff:ff:ff:ff")/ARP(pdst=ips), timeout=15, iface=interface, verbose=False)
+	ans, unans = srp(Ether(dst="ff:ff:ff:ff:ff:ff")/ARP(pdst=ips), timeout=60, iface=interface, verbose=False)
 	
 	#print ans.summary()
 	print ('MAC - IP')

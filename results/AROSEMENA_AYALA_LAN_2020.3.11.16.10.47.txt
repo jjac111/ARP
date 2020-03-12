@@ -1,0 +1,16 @@
+172.21.25.128	f4:4d:30:62:44:07	Elitegroup Computer Systems Co.,Ltd.
+172.21.25.131	a8:20:66:29:2c:5f	Apple, Inc.
+172.21.25.132	d8:9e:f3:88:26:7b	Dell Inc.
+172.21.25.134	d4:3d:7e:18:77:6e	Micro-Star Int'l Co, Ltd
+172.21.25.136	f4:4d:30:61:e1:ff	Elitegroup Computer Systems Co.,Ltd.
+172.21.25.137	f4:4d:30:66:1d:af	Elitegroup Computer Systems Co.,Ltd.
+172.21.25.140	a8:20:66:23:be:98	Apple, Inc.
+172.21.25.142	d8:9e:f3:88:2b:21	Dell Inc.
+172.21.25.145	f4:4d:30:62:43:d5	Elitegroup Computer Systems Co.,Ltd.
+172.21.25.146	f4:4d:30:66:1a:7b	Elitegroup Computer Systems Co.,Ltd.
+172.21.25.148	d4:3d:7e:18:74:70	Micro-Star Int'l Co, Ltd
+172.21.25.149	d8:9e:f3:88:1f:64	Dell Inc.
+172.21.25.150	f4:39:09:f3:bd:de	Hewlett Packard
+172.21.25.152	d8:cb:8a:39:6c:82	Micro-Star INTL CO., LTD.
+172.21.25.153	d8:9e:f3:88:20:0b	Dell Inc.
+172.21.25.155	8c:89:a5:16:1e:e3	Micro-Star INT'L CO., LTD
